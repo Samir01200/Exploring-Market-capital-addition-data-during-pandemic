@@ -1,0 +1,101 @@
+﻿S.No,Company,Country,Sector,Market cap ($bn),Market cap added,Change
+1,Amazon,US,Consumer discretionary,"1,317.30",401.1,43.8
+2,Microsoft,US,Technology,"1,473.00",269.9,22.4
+3,Apple,US,Technology,"1,523.90",219.1,16.8
+4,Tesla,US,Consumer discretionary,183.8,108.4,143.8
+5,Tencent,China,Communication services,550.9,93.1,20.3
+6,Facebook,US,Communication services,671,85.7,14.6
+7,Nvidia,US,Technology,227.3,83.3,57.8
+8,Alphabet,US,Communication services,991.1,68.1,7.4
+9,PayPal,US,Technology,192.4,65.4,51.5
+10,T-Mobile US,US,Communication services,126.8,59.7,89
+11,Pinduoduo,China,Consumer discretionary,99.2,55.2,125.6
+12,Netflix,US,Communication services,196.9,55.1,38.9
+13,Meituan Dianping,China,Consumer discretionary,129.6,53.7,70.6
+14,Shopify,Canada,Technology,97.6,51.5,111.7
+15,Zoom Video,US,Technology,66.8,48,255.1
+16,JD.com,China,Consumer discretionary,95.8,44.4,86.3
+17,Adobe,US,Technology,199.2,40.1,25.2
+18,Audi,Germany,Consumer discretionary,76.3,37.8,98.4
+19,AbbVie,US,Healthcare,168.7,37.8,28.9
+20,Kweichow Moutai,China,Consumer staples,249.1,35.6,16.7
+21,Chugai Pharmaceutical,Japan,Healthcare,84.7,33.9,66.9
+22,Alibaba,China,Consumer discretionary,601.8,32.8,5.8
+23,Sea Group,Singapore,Communication services,50.5,31.9,171.1
+24,Home Depot,US,Consumer discretionary,269.8,31.6,13.3
+25,ASML,Netherlands,Technology,151,27.3,22.1
+26,Roche,Switzerland,Healthcare,303.7,27.1,9.8
+27,Prosus,Netherlands,Consumer discretionary,145.7,24.7,20.4
+28,ServiceNow,US,Technology,76.4,23.2,43.5
+29,Regeneron Pharmaceuticals,US,Healthcare,61.2,20.2,49.2
+30,Alibaba Health Information Technology,Hong Kong,Healthcare,34.1,20.2,145.3
+31,Samsung Biologics,South Korea,Healthcare,44.9,20,80.4
+32,Novo Nordisk,Denmark,Healthcare,156.3,19.8,14.5
+33,Salesforce,US,Technology,163.4,19.2,13.3
+34,Adyen,Netherlands,Technology,43.4,19,77.9
+35,Eli Lilly,US,Healthcare,145,18.8,14.9
+36,Moderna,US,Healthcare,24.6,18.1,277.6
+37,MercadoLibre,Argentina,Consumer discretionary,46.5,18.1,63.6
+38,Dexcom,US,Healthcare,37.2,17.2,86
+39,NetEase,China,Communication services,56.3,17.1,43.5
+40,Shenzhen Mindray Bio-Medical Electronics,China,Healthcare,48.8,17,53.7
+41,DocuSign,US,Technology,29.7,16.4,123.1
+42,Vertex Pharmaceuticals,US,Healthcare,72.6,16.3,29
+43,Twilio,US,Technology,29.6,16.1,119.5
+44,Square,US,Technology,42.6,15.7,58.6
+45,Contemporary Amperex Technology,China,Industrials,49.2,15.4,45.7
+46,American Tower,US,Real estate,117,15.2,15
+47,Prologis,US,Real estate,71.4,15.1,26.8
+48,Keyence,Japan,Technology,100.5,14.6,17.1
+49,Atlassian,Australia,Technology,43.6,14.2,48.5
+50,Luxshare Precision,China,Technology,42.3,14.2,50.7
+51,Nestlé,Switzerland,Consumer staples,326.7,14.2,4.5
+52,Danaher,US,Healthcare,124.7,14.1,12.8
+53,Digital Realty Trust,US,Real estate,39,14,56.2
+54,Datadog,US,Technology,24.9,13.7,122.4
+55,Veeva Systems,US,Healthcare,34.4,13.5,64.5
+56,International Holdings,UAE,Consumer staples,15.6,12.6,408.7
+57,Activision Blizzard,US,Communication services,58.2,12.5,27.5
+58,Equinix,US,Real estate,61.8,12,24.1
+59,S&P Global,US,Financials,78.6,11.9,17.8
+60,Advanced Micro Devices,US,Technology,63.9,11.7,22.4
+61,Autodesk,US,Technology,52,11.6,28.7
+62,Lonza,Switzerland,Healthcare,38.6,11.6,42.7
+63,Crown Castle International,US,Real estate,70.6,11.5,19.5
+64,Jiangsu Hengrui Medicine,China,Healthcare,66.9,11.5,20.8
+65,Flutter Entertainment,Ireland,Consumer discretionary,21,11.5,121.6
+66,Foshan Haitian Flavouring and Food,China,Consumer staples,53,11.3,27
+67,Wuliangye Yibin,China,Consumer staples,85.4,11.2,15.1
+68,Daiichi Sankyo,Japan,Healthcare,54.3,11.2,25.9
+69,CrowdStrike,US,Technology,21.3,11.1,108
+70,SF Holding,China,Industrials,34.6,11.1,46.8
+71,ZTO Express,China,Industrials,29.2,11,60.1
+72,Celltrion,South Korea,Healthcare,31.9,10.9,51.8
+73,Wayfair,US,Consumer discretionary,19.2,10.8,128.1
+74,Centene,US,Healthcare,36.8,10.8,41.4
+75,Hermès International,France,Consumer discretionary,88.2,10.6,13.7
+76,Lowe's,US,Consumer discretionary,102.4,10.6,11.6
+77,Spotify,Sweden,Communication services,37.2,10.4,38.8
+78,Hansoh Pharmaceutical,China,Healthcare,29.6,10.3,53.8
+79,Gilead Sciences,US,Healthcare,92.5,10.3,12.5
+80,Okta,US,Technology,24.2,10.2,73.2
+81,Barrick Gold,Canada,Materials,43.1,10.1,30.7
+82,Chongqing Zhifei Biological,China,Healthcare,21.5,10.1,88.3
+83,China Tourism Group Duty Free,China,Consumer discretionary,34.4,9.5,37.9
+84,Muyuan Foods,China,Consumer staples,37,9.4,34.3
+85,TAL Education,China,Consumer discretionary,38,9.4,33.1
+86,RingCentral,US,Technology,24,9.4,65
+87,Lululemon Athletica,Canada,Consumer discretionary,39.5,9.4,31
+88,LG Chem,South Korea,Materials,29.5,9.4,46.4
+89,Reliance Industries,India,Energy,134.5,9,7.2
+90,Offcn Education Technology,China,Consumer discretionary,24.9,9,57.1
+91,Newmont,US,Materials,44.6,9,25.2
+92,Just Eat Takeaway,Netherlands,Consumer discretionary,14.6,9,159.8
+93,Unilever,Netherlands,Consumer staples,146.2,9,6.5
+94,AstraZeneca,UK,Healthcare,141.2,8.8,6.6
+95,L'Oréal,France,Consumer staples,173.4,8.8,5.3
+96,Snap,US,Communication services,31.5,8.7,38
+97,Changchun High & New Technology Industry,China,Healthcare,21.5,8.5,65.2
+98,Chewy,US,Consumer discretionary,19.9,8.3,72.2
+99,GSX Techedu,China,Consumer discretionary,13.4,8.2,160.1
+100,Teladoc Health,US,Healthcare,14.3,8.2,136
